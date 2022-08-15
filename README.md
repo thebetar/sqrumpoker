@@ -24,8 +24,11 @@ yourself, as long as you provide the source code to the application to end-users
 
 The application is made up of two parts:
 
-1. A Java (SpringBoot) server component.
+1. A Java (SpringBoot) server component. / NestJS, moet nog uitgevochten worden
 2. A React client component.
+3. GraphQL
+4. Sqlite
+5. Prisma (ORM)
 
 The server exposes a bunch of basic APIs, which are described in our `openapi` configuration.
 
