@@ -25,7 +25,10 @@ yourself, as long as you provide the source code to the application to end-users
 The application is made up of two parts:
 
 1. A Java (SpringBoot) server component.
-2. A React client component.
+2. A Svelte client component.
+    1. Svelte HeadlessUI.
+    2. 
+
 
 The server exposes a bunch of basic APIs, which are described in our `openapi` configuration.
 
